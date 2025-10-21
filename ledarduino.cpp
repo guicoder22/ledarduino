@@ -1,5 +1,5 @@
 // Projeto: Controle de LED com botão (com comportamento alternado e delay)
-// Autor: Guilherme Souza 
+// Autor: meu pau na sua boca
 // Data: 06/04/2025
 // Descrição: O LED acende, apaga por 1 segundo, acende novamente e repete o ciclo até que o botão seja pressionado novamente.
 
