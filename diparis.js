@@ -1,1 +1,1 @@
-hacked by diparis - CyberTeam portuguesez hackerz rulez
+hacked by diparis
