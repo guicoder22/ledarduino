@@ -1,1 +1,1 @@
-hacked by diparis & p2wnz
+hacked by diparis
